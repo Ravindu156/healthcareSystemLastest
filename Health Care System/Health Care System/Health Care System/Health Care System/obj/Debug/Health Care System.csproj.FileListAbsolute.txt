@@ -1,0 +1,28 @@
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\bin\Debug\Health Care System.exe.config
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\bin\Debug\Health Care System.exe
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\bin\Debug\Health Care System.pdb
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health Care System.csproj.AssemblyReference.cache
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form1.resources
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health_Care_System.Properties.Resources.resources
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health Care System.csproj.GenerateResource.cache
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health Care System.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health Care System.exe
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health Care System.pdb
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form2.resources
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form3.resources
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form4.resources
+C:\Users\Udara\Downloads\SalaryLibrary\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form5.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\bin\Debug\Health Care System.exe.config
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\bin\Debug\Health Care System.exe
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\bin\Debug\Health Care System.pdb
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health Care System.csproj.AssemblyReference.cache
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form1.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form2.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form3.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form4.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health_Care_System.Form5.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health_Care_System.Properties.Resources.resources
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health Care System.csproj.GenerateResource.cache
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health Care System.csproj.CoreCompileInputs.cache
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health Care System.exe
+C:\Users\Udara\Desktop\Nuwan\Assignment\Health Care System\Health Care System\obj\Debug\Health Care System.pdb
